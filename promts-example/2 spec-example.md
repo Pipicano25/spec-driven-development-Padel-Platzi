@@ -1,3 +1,5 @@
+/speckit-specify
+
 ## Features principales
 
 ### 1. Autenticación de Usuarios
